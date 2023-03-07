@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrendra kumar 
 - 👀 I’m interested in Software Devloper 
-- 🌱 I’m currently Pursuing B.Tech from Computer Science Engineering 
+- 🌱 I’m Completed B.Tech in Computer Science Engineering 
 - 💞️ I’m looking For IT sector
 - 📫 How to reach me ...
 
