@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amrendra kumar 
-- 👀 I’m interested in Software Devloper 
+- 👀 I’m interested in Front End Developer | Javascript Developer | React Developer 
 - 🌱 I’m Completed B.Tech in Computer Science Engineering 
-- 💞️ I’m looking For IT sector
+- 💞️ currently working in Front End developer role 
 - 📫 How to reach me ...
 
 <!---
